@@ -1,4 +1,4 @@
-#Speech Recognition Kaggle
+# Speech Recognition Kaggle
 
 This is the final project chosen by my group (Dhaval Patel and Misha Dubuc) for the Machine Learning course at RWU.
 
