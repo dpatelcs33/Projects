@@ -1,4 +1,5 @@
-Speech Recognition Kaggle
+#Speech Recognition Kaggle
+
 This is the final project chosen by my group (Dhaval Patel and Misha Dubuc) for the Machine Learning course at RWU.
 
 This project involved research and practical application of the Deep Learning topics covered in class. The project was chosen from Kaggle as a way for us to dive deeper into real-world problems.
