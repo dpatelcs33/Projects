@@ -1,0 +1,15 @@
+.vscode
+*.pyc
+
+main/config.py
+dev/config.py
+
+main/__pycache__
+dev/__pycache__
+
+dev/chromedriver.exe
+dev/tempJSON.json
+
+resources/dev_example_1.py
+
+kibana access

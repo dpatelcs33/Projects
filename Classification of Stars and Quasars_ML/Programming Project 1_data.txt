@@ -1,0 +1,153 @@
+n = 1, diag
+
+0.7878485414385987
+Confusion Matrix
+[[101597  30899]
+ [  2046  20748]]
+Classification Report
+              precision    recall  f1-score   support
+
+           0       0.98      0.77      0.86    132496
+           1       0.40      0.91      0.56     22794
+
+   micro avg       0.79      0.79      0.79    155290
+   macro avg       0.69      0.84      0.71    155290
+weighted avg       0.90      0.79      0.82    155290
+
+
+
+n = 1, tied
+
+0.8531586064782021
+Confusion Matrix
+[[112575  20095]
+ [  2708  19912]]
+Classification Report
+              precision    recall  f1-score   support
+
+           0       0.98      0.85      0.91    132670
+           1       0.50      0.88      0.64     22620
+
+   micro avg       0.85      0.85      0.85    155290
+   macro avg       0.74      0.86      0.77    155290
+weighted avg       0.91      0.85      0.87    155290
+
+
+n = 1, full
+
+0.8578079721810805
+Confusion Matrix
+[[113217  19295]
+ [  2786  19992]]
+Classification Report
+              precision    recall  f1-score   support
+
+           0       0.98      0.85      0.91    132512
+           1       0.51      0.88      0.64     22778
+
+   micro avg       0.86      0.86      0.86    155290
+   macro avg       0.74      0.87      0.78    155290
+weighted avg       0.91      0.86      0.87    155290
+
+n = 3, diag
+
+0.9667267692703974
+Confusion Matrix
+[[130087   2325]
+ [  2842  20036]]
+Classification Report
+              precision    recall  f1-score   support
+
+           0       0.98      0.98      0.98    132412
+           1       0.90      0.88      0.89     22878
+
+   micro avg       0.97      0.97      0.97    155290
+   macro avg       0.94      0.93      0.93    155290
+weighted avg       0.97      0.97      0.97    155290
+
+n = 5, diag
+
+0.9755232146306909
+Confusion Matrix
+[[130512   1965]
+ [  1836  20977]]
+Classification Report
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99    132477
+           1       0.91      0.92      0.92     22813
+
+   micro avg       0.98      0.98      0.98    155290
+   macro avg       0.95      0.95      0.95    155290
+weighted avg       0.98      0.98      0.98    155290
+
+n = 5, tied
+
+0.9709511237040376
+Confusion Matrix
+[[130982   1508]
+ [  3003  19797]]
+Classification Report
+              precision    recall  f1-score   support
+
+           0       0.98      0.99      0.98    132490
+           1       0.93      0.87      0.90     22800
+
+   micro avg       0.97      0.97      0.97    155290
+   macro avg       0.95      0.93      0.94    155290
+weighted avg       0.97      0.97      0.97    155290
+
+
+n = 5, full
+
+0.9688775838753301
+Confusion Matrix
+[[129081   3409]
+ [  1424  21376]]
+Classification Report
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98    132490
+           1       0.86      0.94      0.90     22800
+
+   micro avg       0.97      0.97      0.97    155290
+   macro avg       0.93      0.96      0.94    155290
+weighted avg       0.97      0.97      0.97    155290
+
+
+
+FINAL
+
+n = 5, diag
+
+0.963055
+Confusion Matrix
+[[180234   6487]
+ [   902  12377]]
+Classification Report
+              precision    recall  f1-score   support
+
+           0       1.00      0.97      0.98    186721
+           1       0.66      0.93      0.77     13279
+
+   micro avg       0.96      0.96      0.96    200000
+   macro avg       0.83      0.95      0.88    200000
+weighted avg       0.97      0.96      0.97    200000
+
+
+
+GaussianNB
+
+0.61724
+Confusion Matrix
+[[110858  75863]
+ [   689  12590]]
+Classification Report
+              precision    recall  f1-score   support
+
+           0       0.99      0.59      0.74    186721
+           1       0.14      0.95      0.25     13279
+
+   micro avg       0.62      0.62      0.62    200000
+   macro avg       0.57      0.77      0.50    200000
+weighted avg       0.94      0.62      0.71    200000
