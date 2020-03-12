@@ -1,12 +1,13 @@
 # Movie Recommender System
 
 This project implements collaborative and content-based movie recommendation Machine Learning models.
-Please see the Programming Project 3 pdf file for assignment info.
-
+Please see the Project assignment pdf file for assignment info.
 
 load_data.py is first run for seting up the data. The pp3.py implements the model for training/validation/testing.
 
-Report
+For results, please see the report pdf and results screenshots
+
+Dataset included.
 
 # MovieLens Dataset Information
 

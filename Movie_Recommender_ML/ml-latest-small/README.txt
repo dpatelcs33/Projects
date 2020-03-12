@@ -1,16 +1,3 @@
-# Movie Recommender System
-
-This project implements collaborative and content-based movie recommendation Machine Learning models.
-Please see the Programming Project 3 pdf file for assignment info.
-
-
-load_data.py is first run for seting up the data. The pp3.py implements the model for training/validation/testing.
-
-Report
-
-# MovieLens Dataset Information
-
-
 Summary
 =======
 
@@ -164,4 +151,3 @@ Cross-Validation
 ----------------
 
 Prior versions of the MovieLens dataset included either pre-computed cross-folds or scripts to perform this computation. We no longer bundle either of these features with the dataset, since most modern toolkits provide this as a built-in feature. If you wish to learn about standard approaches to cross-fold computation in the context of recommender systems evaluation, see [LensKit](http://lenskit.org) for tools, documentation, and open-source code examples.
-

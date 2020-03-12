@@ -1,0 +1,9 @@
+https://stackoverflow.com/questions/32805916/compute-jaccard-distances-on-sparse-matrix
+
+https://acodeforthought.wordpress.com/2016/12/29/building-a-recommender-system-on-user-user-collaborative-filtering-movielens-dataset/
+
+https://www.datacamp.com/community/tutorials/recommender-systems-python
+
+https://blog.dominodatalab.com/recommender-systems-collaborative-filtering/
+
+https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/
