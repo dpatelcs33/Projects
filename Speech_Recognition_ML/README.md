@@ -1,3 +1,15 @@
+# Speech Recognition Kaggle
+
+This is the final project chosen by my group (Dhaval Patel and Misha Dubuc) for the Machine Learning course at RWU.
+
+This project involved research and practical application of the Deep Learning topics covered in class. The project was chosen from Kaggle as a way for us to dive deeper into real-world problems.
+
+See the Report pdf for results. Note: Report was done before some of the latest changes took place. The changes were made after doing more research and exploring other submissions on Kaggle for better approaches. For this reason, the report results and the screenshots of results in this repo mismatch.
+
+The dataset information is below.
+
+Preprocess must be run on the dataset and then model.py can be used for the Deep Learning model training/validation/testing.
+
 # Speech Commands Data Set v0.02
 
 This is a set of one-second .wav audio files, each containing a single spoken
